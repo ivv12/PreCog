@@ -31,6 +31,7 @@ Implemented a genetic algorithm to evolve AI-generated text that evades detectio
   - Processed datasets: class1_human_data.json, class2_ai_story_paragraphse_try2/3.json, class3_ai_story_paragraphs_try2/3.json (present in Human, Class2, Class3 folders of data respectively)
   - Feature data: task1_fingerprint_features.csv, task1_metadata.json
   - GA results: task4_ga_results_fixed.csv
+  - Glove embeddings can be accessed at: https://nlp.stanford.edu/projects/glove/
 - **Models**: tier_c_detector/, tier_c_detector_try1/, tier_c_detector_try2/, tier_c_detector_try3/
 - **Environment**: nlp_env/ (Python virtual environment)
 
