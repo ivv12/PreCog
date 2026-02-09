@@ -1,0 +1,41 @@
+{
+  "task": "Task 1 - Stylometric Fingerprinting",
+  "tries": {
+    "try1": {
+      "description": "Paragraph-level generation with structured prompts",
+      "samples": 5054,
+      "label_distribution": {
+        "human": 4054,
+        "ai": 1000
+      }
+    },
+    "try2": {
+      "description": "Story-level generation with organic segmentation",
+      "samples": 5054,
+      "label_distribution": {
+        "human": 4054,
+        "ai": 1000
+      }
+    },
+    "try3": {
+      "description": "Few-shot style transfer with author examples",
+      "samples": 4990,
+      "label_distribution": {
+        "human": 4054,
+        "ai": 936
+      }
+    }
+  },
+  "features": [
+    "msttr",
+    "hapax_ratio",
+    "adj_noun_ratio",
+    "avg_dep_depth",
+    "semicolon",
+    "em_dash",
+    "exclamation",
+    "fk_grade",
+    "conditional_entropy",
+    "perplexity"
+  ]
+}

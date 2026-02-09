@@ -1,0 +1,26 @@
+Generation,ID,Paragraph,Human_Prob,AI_Prob,Length
+0,Init_1,Artificial intelligence (AI) is rapidly emerging as a transformative force within the educational la...,0.005236487447594603,0.9947635125524054,139
+0,Init_2,"Okay, so AI in education is becoming a really big topic, and honestly, it's pretty exciting! It's no...",0.022599076231320698,0.9774009237686793,125
+0,Init_3,Artificial intelligence is increasingly impacting education through several key technological implem...,0.00748112207899491,0.9925188779210051,135
+0,Init_4,Imagine a classroom where every student receives a learning experience tailored precisely to their n...,0.005145617450277011,0.994854382549723,148
+0,Init_5,"Old Man Tiber, the school librarian, used to say learning was about finding the right book for the r...",0.010274586112548908,0.989725413887451,208
+0,Init_6,Artificial intelligence (AI) is rapidly emerging as a transformative force within the educational la...,0.005571999199067553,0.9944280008009324,137
+0,Init_7,"Okay, so AI in education is becoming a really big topic, and honestly, it's pretty exciting! It's no...",0.02283399924635887,0.9771660007536411,125
+0,Init_8,Artificial intelligence is increasingly impacting education through several key technological implem...,0.006458610917131106,0.9935413890828689,162
+0,Init_9,Imagine a classroom where every student receives a learning experience tailored precisely to their n...,0.005086949366765718,0.9949130506332343,146
+0,Init_10,"Old Man Tiber, the school librarian, used to say learning was about finding the right book for the r...",0.00848287611734122,0.9915171238826588,159
+0,Elite_G0_1,"Okay, so AI in education is becoming a really big topic, and honestly, it's pretty exciting! It's no...",0.02283399924635887,0.9771660007536411,125
+0,Elite_G0_2,"Okay, so AI in education is becoming a really big topic, and honestly, it's pretty exciting! It's no...",0.022599076231320698,0.9774009237686793,125
+0,Elite_G0_3,"Old Man Tiber, the school librarian, used to say learning was about finding the right book for the r...",0.010274586112548908,0.989725413887451,208
+1,Elite_G1_1,"Old Man Tiber, the librarian, always said learning was about matching the perfect book with the perf...",0.07428717395911615,0.9257128260408839,198
+1,Elite_G1_2,"So, everyone's talking about AI in schools these days, and it's actually pretty cool! Don't freak ou...",0.03554429113864899,0.964455708861351,126
+1,Elite_G1_3,"So, everyone's talking about AI in schools these days, and it's actually pretty cool! Don't freak ou...",0.03554349020123482,0.9644565097987652,127
+2,Elite_G2_1,"Old Man Tiber, the librarian, always used to say the best learning happened when you found just the ...",0.16669827389220396,0.8333017261077961,206
+2,Elite_G2_2,"Old Man Tiber, the librarian, always said learning was about matching the perfect book with the perf...",0.07428717395911615,0.9257128260408839,198
+2,Elite_G2_3,"So, everyone's talking about AI in schools these days, and it's actually pretty cool! Don't freak ou...",0.03554429113864899,0.964455708861351,126
+3,Elite_G3_1,"Old Man Tiber, the librarian, always used to say the best learning happened when you found just the ...",0.16669827389220396,0.8333017261077961,206
+3,Elite_G3_2,"Old Man Tiber, the librarian, always used to say the best learning happened when you found just the ...",0.15351068414747715,0.8464893158525229,207
+3,Elite_G3_3,"Old Man Tiber, the librarian, always said the magic happened when a kid found *the* perfect book at ...",0.09680045023560524,0.9031995497643948,207
+4,Elite_G4_1,"Old Man Tiber, the librarian, always used to say the best learning happened when you found just the ...",0.16669827389220396,0.8333017261077961,206
+4,Elite_G4_2,"Old Man Tiber, the librarian, always used to say the best learning happened when you found just the ...",0.15351068414747715,0.8464893158525229,207
+4,Elite_G4_3,"Old Man Tiber, the librarian, always talked about how the best thing was finding *that* book that ju...",0.1364798049132029,0.8635201950867971,199
